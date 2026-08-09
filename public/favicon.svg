@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Dark circle background -->
+  <circle cx="32" cy="32" r="32" fill="#0b0b0c"/>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#FFC300" stroke-width="2.5"/>
+  
+  <!-- Dumbbell icon -->
+  <!-- Left weight plates -->
+  <rect x="10" y="24" width="6" height="16" rx="2" fill="#FFC300"/>
+  <rect x="17" y="27" width="4" height="10" rx="1.5" fill="#F4F3EE"/>
+  
+  <!-- Bar -->
+  <rect x="21" y="30" width="22" height="4" rx="1" fill="#F4F3EE"/>
+  
+  <!-- Right weight plates -->
+  <rect x="43" y="27" width="4" height="10" rx="1.5" fill="#F4F3EE"/>
+  <rect x="48" y="24" width="6" height="16" rx="2" fill="#FFC300"/>
+  
+  <!-- "PH" text below -->
+  <text x="32" y="54" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="10" fill="#FFC300" letter-spacing="1.5">PH</text>
+</svg>
